@@ -1,0 +1,25 @@
+difficulté:
+carte
+joueur
+liste joueur
+matrice
+plateau
+labyrinthe
+
+
+Les fonctions différentes de getter setter et constructeur n'utilise que l'API
+
+Pour la semaine prochaine il faut : un chef de projet.
+                                    les structures de données
+
+
+Pour avant les vacances : (cartes), (joueur), et (liste joueur) fini.
+
+
+Toute les semaine le chef de projet doit envoyer des fiches individuelles ( même format pour tout le monde) :
+      elles comportent, le nom le prénom et le groupe. Ce que j'ai fait, le temps que ça à pris, l'évolution du fichier ( fini ou en cours )  (par jour ) et un total de la semaine.
+      
+
+
+
+(carte et joueur en fichier test bientôt disponible)
